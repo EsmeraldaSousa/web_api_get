@@ -274,3 +274,4 @@ C:\Users\admin\Downloads\estrutura_api_get\Exo.WebApi\obj\Debug\net9.0\refint\Ex
 C:\Users\admin\Downloads\estrutura_api_get\Exo.WebApi\obj\Debug\net9.0\Exo.WebApi.pdb
 C:\Users\admin\Downloads\estrutura_api_get\Exo.WebApi\obj\Debug\net9.0\Exo.WebApi.genruntimeconfig.cache
 C:\Users\admin\Downloads\estrutura_api_get\Exo.WebApi\obj\Debug\net9.0\ref\Exo.WebApi.dll
+C:\Users\admin\Downloads\estrutura_api_get\Exo.WebApi\obj\Debug\net9.0\Exo.WebApi.sourcelink.json
